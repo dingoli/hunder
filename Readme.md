@@ -1,2 +1,2 @@
-# Hunder -- Tunder game rewrite!
+# Hunder -- Thunder game rewrite!
 
